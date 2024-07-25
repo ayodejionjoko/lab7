@@ -1,0 +1,8 @@
+bin/
+obj/
+*.exe
+*.dll
+.vs/
+packages/
+appsettings.Development.json
+appsettings.json
